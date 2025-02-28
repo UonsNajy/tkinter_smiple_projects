@@ -5,7 +5,7 @@ from PIL import ImageTk,Image
 root = Tk()
 
 root.title("Learn to code at coding.com")
-root.iconbitmap("C:/Users/pc/coding.ico")
+root.iconbitmap(" ")
 
 
 
